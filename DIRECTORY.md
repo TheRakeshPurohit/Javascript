@@ -70,6 +70,7 @@
     * [MinHeap](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinHeap.js)
     * [MinPriorityQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinPriorityQueue.js)
   * Linked-List
+    * [AddTwoNumbers](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/AddTwoNumbers.js)
     * [CycleDetection](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/CycleDetection.js)
     * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/DoublyLinkedList.js)
     * [RotateListRight](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/RotateListRight.js)
@@ -143,6 +144,7 @@
   * [Abs](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Abs.js)
   * [AliquotSum](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AliquotSum.js)
   * [Area](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Area.js)
+  * [ArithmeticGeometricMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ArithmeticGeometricMean.js)
   * [ArmstrongNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/ArmstrongNumber.js)
   * [AverageMean](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMean.js)
   * [AverageMedian](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/AverageMedian.js)
