@@ -18,6 +18,8 @@
   * [LFUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LFUCache.js)
   * [LRUCache](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/LRUCache.js)
   * [Memoize](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/Memoize.js)
+  * test
+    * [cacheTest](https://github.com/TheAlgorithms/Javascript/blob/master/Cache/test/cacheTest.js)
 
 ## Cellular-Automata
   * [ConwaysGameOfLife](https://github.com/TheAlgorithms/Javascript/blob/master/Cellular-Automata/ConwaysGameOfLife.js)
@@ -65,6 +67,7 @@
   * Graph
     * [Graph](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph.js)
     * [Graph2](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph2.js)
+    * [Graph3](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Graph/Graph3.js)
   * Heap
     * [MaxHeap](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MaxHeap.js)
     * [MinHeap](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Heap/MinHeap.js)
@@ -74,7 +77,7 @@
     * [CycleDetection](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/CycleDetection.js)
     * [DoublyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/DoublyLinkedList.js)
     * [RotateListRight](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/RotateListRight.js)
-    * [SingleCircularLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SingleCircularLinkedList.js.js)
+    * [SinglyCircularLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SinglyCircularLinkedList.js)
     * [SinglyLinkedList](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Linked-List/SinglyLinkedList.js)
   * Queue
     * [CircularQueue](https://github.com/TheAlgorithms/Javascript/blob/master/Data-Structures/Queue/CircularQueue.js)
@@ -155,6 +158,7 @@
   * [CheckKishnamurthyNumber](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/CheckKishnamurthyNumber.js)
   * [Coordinate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/Coordinate.js)
   * [CoPrimeCheck](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/CoPrimeCheck.js)
+  * [DecimalExpansion](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DecimalExpansion.js)
   * [DecimalIsolate](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DecimalIsolate.js)
   * [DegreeToRadian](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/DegreeToRadian.js)
   * [EulerMethod](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/EulerMethod.js)
@@ -170,6 +174,7 @@
   * [FindHcf](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindHcf.js)
   * [FindLcm](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindLcm.js)
   * [FindMin](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindMin.js)
+  * [FindMinIterator](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/FindMinIterator.js)
   * [GetEuclidGCD](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/GetEuclidGCD.js)
   * [GridGet](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/GridGet.js)
   * [IsDivisible](https://github.com/TheAlgorithms/Javascript/blob/master/Maths/IsDivisible.js)
@@ -290,8 +295,10 @@
 ## String
   * [AlphaNumericPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/AlphaNumericPalindrome.js)
   * [AlternativeStringArrange](https://github.com/TheAlgorithms/Javascript/blob/master/String/AlternativeStringArrange.js)
+  * [BoyerMoore](https://github.com/TheAlgorithms/Javascript/blob/master/String/BoyerMoore.js)
   * [CheckAnagram](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckAnagram.js)
   * [CheckCamelCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckCamelCase.js)
+  * [CheckExceeding](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckExceeding.js)
   * [CheckFlatCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckFlatCase.js)
   * [CheckKebabCase](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckKebabCase.js)
   * [CheckPalindrome](https://github.com/TheAlgorithms/Javascript/blob/master/String/CheckPalindrome.js)
